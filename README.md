@@ -42,15 +42,10 @@ Voice Scam Shield is a comprehensive cybersecurity application that provides rea
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd voice-scam-shield
+   cd J97FanClub
    ```
 
-2. **Install dependencies**
-   ```bash
-   npm run install:all
-   ```
-
-3. **Backend Setup**
+2. **Backend Setup**
    ```bash
    cd backend
    cp .env.example .env
@@ -58,7 +53,7 @@ Voice Scam Shield is a comprehensive cybersecurity application that provides rea
    pip install -r requirements.txt
    ```
 
-4. **Frontend Setup**
+3. **Frontend Setup**
    ```bash
    cd frontend
    npm install
